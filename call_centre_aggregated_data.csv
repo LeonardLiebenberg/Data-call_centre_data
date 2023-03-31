@@ -1,0 +1,13 @@
+﻿date_distributed,crm_name,classification,totalSent,attempts,uniqueDialled,rpc,appCreated,DatetoQA,expired
+2023/01/04,centreA,Campaign A,7416,13899,4756,614,1069,40,0
+2023/01/11,centreA,Campaign A,12500,13558,9922,1062,923,16,0
+2023/01/18,centreA,Campaign A,18833,14144,9107,1206,3188,70,0
+2023/01/25,centreA,Campaign A,10379,15725,7111,832,1048,29,0
+2023/01/04,centreA,Campaign B,1727,20903,1677,777,2749,212,0
+2023/01/11,centreA,Campaign B,600,1438,581,190,967,104,0
+2023/01/18,centreA,Campaign B,896,3312,863,302,1368,118,0
+2023/01/25,centreA,Campaign B,500,2983,484,240,845,79,0
+2023/01/04,centreA,Campaign C,15000,1320,1199,108,201,3,0
+2023/01/11,centreA,Campaign C,15000,1035,508,26,2538,37,142
+2023/01/18,centreA,Campaign C,30000,0,0,0,216,4,0
+2023/01/25,centreA,Campaign C,12500,1065,1048,59,230,2,0
